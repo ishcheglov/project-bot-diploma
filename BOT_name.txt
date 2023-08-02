@@ -1,0 +1,9 @@
+
+@HOTELNEW_Skillbox_bot
+
+TOKEN = "5636393189:AAGr2W2zEhUSDKHrWhdnT5UinENJXPRwMyM"
+
+@HotelllllNewBot
+
+TOKEN =	"6124268046:AAEYKaU4DKzfkODI3ylKqneaTohodqsmBcQ"
+
